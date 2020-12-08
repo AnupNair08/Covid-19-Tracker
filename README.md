@@ -47,5 +47,6 @@ Install Expo application on your mobile to tunnel the built application for test
 <img src="assets/1.jpeg" height="600" width="300"></img>        <img src="assets/2.jpeg" height="600" width="300"></img>           <img src="assets/3.jpeg" height="600" width="300"></img>
 
 <hr>
-#### Note:
+
+Note:
 The application was built for learning purposes and some of the APIs might be down. Future improvements to be worked upon. :)
